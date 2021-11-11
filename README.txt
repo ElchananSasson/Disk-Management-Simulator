@@ -13,11 +13,11 @@ Function 4(ReadFromFile) - This method reads the contents of the selected file.
 Function 5(DelFile) - This method deletes a file.
 
 ==Program Files==
-ex7_final_proj.2021.cpp
+diskManagementSimulator.cpp
 
 ==How to compile?==
-compile: g++ ex7_final_proj.2021.cpp -o ex7
-run: ./ex7
+compile: g++ diskManagementSimulator.cpp -o dms
+run: ./dms
 
 ==Input:==
 By using the application operations can be performed on the disk.(format, write, read, open, close, delete etc.)
