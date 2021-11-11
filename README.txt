@@ -14,6 +14,7 @@ Function 5(DelFile) - This method deletes a file.
 
 ==Program Files==
 diskManagementSimulator.cpp
+DISK_SIM_FILE.txt - the file that simulate the disk (must be exist before lunching the program).
 
 ==How to compile?==
 compile: g++ diskManagementSimulator.cpp -o dms
